@@ -1,0 +1,17 @@
+body {
+    background-image: linear-gradient(lightblue,pink,lightblue);
+    font-family: sans-serif;
+}
+
+.link-header {
+    display:flex;
+    width:150px;
+    background:linear-gradient(to right,#8DDCA4,#C99CD3,#8DDCA4);
+    color:white;
+    text-decoration:none;
+    border:3px solid blue;
+    font-size:20px;
+    margin:10px;
+    padding:10px;
+    border-radius:25px;
+}
